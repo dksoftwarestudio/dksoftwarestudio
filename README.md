@@ -1,6 +1,7 @@
+<img src="https://raw.githubusercontent.com/dksoftwarestudio/dksoftwarestudio/main/dk-icon2.png" width="420">
+
 # DK Software Studio
 
-<img src="https://dksoftwarestudio.github.io/dk-icon.png" width="120"/>
 
 Minimalist Android applications built with Kotlin.
 
@@ -27,4 +28,5 @@ Repository: https://github.com/dksoftwarestudio/DailyRoutineAlarm
 https://dksoftwarestudio.github.io
 
 ---
-Minimalist apps. Clean design. Useful t
+
+Minimalist apps. Clean design. Useful tools.
