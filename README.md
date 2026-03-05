@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dksoftwarestudio/dksoftwarestudio/main/dk-icon2.png" width="420">
+<img src="https://raw.githubusercontent.com/dksoftwarestudio/dksoftwarestudio/main/Design2.png" width="420">
 
 # DK Software Studio
 
