@@ -1,22 +1,29 @@
+82"}
 # DK Software Studio
 
-Simple and useful Android applications built with Kotlin.
+<img src="https://dksoftwarestudio.github.io/dk-icon.png" width="120"/>
 
-## Projects
+Minimalist Android applications built with Kotlin.
 
-📱 JW Daily Alarm  
-A minimalist reminder to read the Daily Text.
+---
 
-📅 JW Calendar  
-Service time calendar with a clean monthly overview.
+## 📱 Android Apps
 
-⏰ Daily Routine Alarm Pro  
-A simple routine alarm manager for daily tasks.
+JW Daily Alarm  
+A simple reminder to read the Daily Text.
 
-## Website
+JW Calendar  
+A clean monthly service time calendar.
+
+Daily Routine Alarm Pro  
+A minimal routine alarm manager.
+
+---
+
+## 🌐 Website
 
 https://dksoftwarestudio.github.io
 
 ---
 
-Minimalist apps. Clean design. Useful tools.
+Minimalist apps. Clean design. Useful to
