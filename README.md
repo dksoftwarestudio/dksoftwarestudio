@@ -1,16 +1,22 @@
-## Hi there 👋
+# DK Software Studio
 
-<!--
-**dksoftwarestudio/dksoftwarestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Simple and useful Android applications built with Kotlin.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 JW Daily Alarm  
+A minimalist reminder to read the Daily Text.
+
+📅 JW Calendar  
+Service time calendar with a clean monthly overview.
+
+⏰ Daily Routine Alarm Pro  
+A simple routine alarm manager for daily tasks.
+
+## Website
+
+https://dksoftwarestudio.github.io
+
+---
+
+Minimalist apps. Clean design. Useful tools.
